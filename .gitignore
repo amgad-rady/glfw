@@ -10,8 +10,7 @@ _ReSharper*
 *.sdf
 *.suo
 *.dir
-*.vcxproj*
-*.sln
+*.user
 .vs
 CMakeSettings.json
 Win32
